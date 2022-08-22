@@ -42,10 +42,10 @@
             <a class="nav-link text-white" href="#">Lembar Kerja</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="pendaftaran-ujian.php">Pendaftaran Ujian</a><hr class="bg-secondary">
+            <a class="nav-link text-white" href="#">Pendaftaran Ujian</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="#">Jadwal Ujian</a><hr class="bg-secondary">
+            <a class="nav-link text-white" href="jadwal-ujian.php">Jadwal Ujian</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="#">Menguanggah Nilai</a><hr class="bg-secondary">
