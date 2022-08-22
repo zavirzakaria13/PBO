@@ -36,7 +36,7 @@
               <label for="password" class="form-label">Password</label>
               <input type="password" class="form-control" id="password" placeholder="Masukkan Password" />
 
-              <a href="#" class="text-decoration-none text-center">Lupa Password</a>
+              
 
               <button type="signin" class="btn signin">Sign In</button>
               <button class="signin-google">Sign In With Email</button>
