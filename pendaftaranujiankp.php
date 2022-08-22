@@ -204,9 +204,9 @@
             <td><textarea></textarea></td>
           </tr>
         </table>
-        <a href="#" class="text-decoration-none text-center">Daftar</a>
-        <a href="#" class="text-decoration-none text-center">Jadwal</a>
+        
       </form>
     </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
   </body>
 </html>
