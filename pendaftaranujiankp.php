@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <tittle>Pendaftaran Ujian Kerja Praktek</tittle>
+    
   </head>
-  <body background="body-poliwangi.jpg" style="height: 100%">
+  <body>
     
 
     <style>
@@ -13,11 +13,10 @@
         padding: 1px;
       }
     </style>
-    <div class="wrap">
-      <img src="poliwangi landscape.jpg" widht="800px" />
-    </div>
+    
     <div class="wrap" style="background-color: white">
       <form>
+      <tittle>Pendaftaran Ujian Kerja Praktek</tittle>
         <table widht="750">
           <h3 style="background-color: grey" align="center">Informasi Personal</h3>
           <tr>
@@ -204,9 +203,9 @@
             <td><textarea></textarea></td>
           </tr>
         </table>
-        
+        <button type="submit" class="btn btn-primary">Daftar</button>
       </form>
     </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
+    
   </body>
 </html>
