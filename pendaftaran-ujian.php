@@ -56,7 +56,7 @@
         </ul>
       </div>
       <div class="col-md-10 p-5 pt-2">
-        <h3><i class="fas fa-tachemeter-alt mr-2"></i>PENDAFTARAN UJIAN<hr>
+        <h3><i class="fas fa-tachemeter-alt mr-2"></i><b>PENDAFTARAN UJIAN</b><hr>
         <style>
       .wrap {
         width: 800px;
@@ -66,7 +66,7 @@
     </style>
         <div class="wrap" style="background-color: white">
       <form>
-      <tittle>Pendaftaran Ujian Kerja Praktek</tittle>
+      
         <table widht="750">
           <h3 style="background-color: grey" align="center">Informasi Personal</h3>
           <tr>

@@ -36,7 +36,7 @@
             <a class="nav-link text-white" href="#">Pendaftaran KP</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="#">Surat Izin</a><hr class="bg-secondary">
+            <a class="nav-link text-white" href="surat-izin.php">Surat Izin</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="#">Lembar Kerja</a><hr class="bg-secondary">
@@ -57,7 +57,9 @@
       </div>
       <div class="col-md-10 p-5 pt-2">
         <h3><i class="fas fa-tachemeter-alt mr-2"></i>JADWAL UJIAN<hr>
-          
+        <a href="Nomor.docx" download='Jadwal Ujian KP.xlsx' class="download-btn">Download
+        <i class="fa fa-download"></i>
+    </a> 
 
       </div>
     </div>
