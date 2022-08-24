@@ -36,7 +36,7 @@
             <a class="nav-link text-white" href="#">Pendaftaran KP</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="#">Surat Izin</a><hr class="bg-secondary">
+            <a class="nav-link text-white" href="surat-izin.php">Surat Izin</a><hr class="bg-secondary">
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="#">Lembar Kerja</a><hr class="bg-secondary">
