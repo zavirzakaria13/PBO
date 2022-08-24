@@ -13,6 +13,7 @@
   </head>
   <body>
 
+
     <from action="Jadwal Ujian" method="post">
 
 
@@ -56,7 +57,10 @@
         </ul>
       </div>
       <div class="col-md-10 p-5 pt-2">
-        <h3><i class="fas fa-tachemeter-alt mr-2"></i>JADWAL UJIAN<hr>
+        <h3><i class="fas fa-tachemeter-alt mr-2"></i><b>JADWAL UJIAN</b><hr>
+        <a href="Jadwal Ujian KP" download='Jadwal Ujian KP.xlsx' class="download-btn">Download
+        <i class="fa fa-download"></i>
+    </a>
           
 
       </div>
