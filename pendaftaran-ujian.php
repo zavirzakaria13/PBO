@@ -56,7 +56,7 @@
         </ul>
       </div>
       <div class="col-md-10 p-5 pt-2">
-        <h3><i class="fas fa-tachemeter-alt mr-2"></i><b>PENDAFTARAN UJIAN KP</b><hr>
+        <h3><i class="fas fa-tachemeter-alt mr-2"></i>PENDAFTARAN UJIAN<hr>
         <style>
       .wrap {
         width: 800px;
