@@ -1,7 +1,7 @@
 <?php
 
 //panggil konek database
-include "koneksi.php";
+include "koneksi_pendaftaranujian.php";
 
 ?>
 
@@ -62,8 +62,8 @@ include "koneksi.php";
                   <h5 class="modal-title" id="staticBackdropLabel">Ubah Data</h5>
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <form method="POST" action="aksi_crud.php">
-                  <input type="hidden" name="id" value="<?= $data['id'] ?>">
+                <form method="POST" action="aksi_crud_pendaftaranujian.php">
+                  <input type="hidden" name="id_pendaftaran_ujian" value="<?= $data['id_pendaftaran_ujian'] ?>">
                   <div class="modal-body">
 
                     <div class="mb-3">
@@ -96,8 +96,8 @@ include "koneksi.php";
                   <h5 class="modal-title" id="staticBackdropLabel">Konfirmasi Hapus Data</h5>
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <form method="POST" action="aksi_crud.php">
-                  <input type="hidden" name="id" value="<?= $data['id'] ?>">
+                <form method="POST" action="aksi_crud_pendaftaranujian.php">
+                  <input type="hidden" name="id_pendaftaran_ujian" value="<?= $data['id_pendaftaran_ujian'] ?>">
                   <div class="modal-body">
 
                     <h5 class="text-center">Apakah anda yakin ingin menghapus data ini? <br>
@@ -130,7 +130,7 @@ include "koneksi.php";
                 <h5 class="modal-title" id="staticBackdropLabel">Tambah Data</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <form method="POST" action="aksi_crud.php">
+              <form method="POST" action="aksi_crud_pendaftaranujian.php">
                 <div class="modal-body">
 
                   <div class="mb-3">
